@@ -1,6 +1,3 @@
-
-# Mi Portfolio
-
 ## Sobre Mí
 Soy egresado de la Tecnicatura en Tecnologías de la Información, con experiencia en soporte técnico, análisis de software y gestión de proyectos. Trabajé en **Proyectos Ingeniería**, una empresa que ofrece soluciones de contralor horario y acceso en Uruguay, donde adquirí experiencia en:
 
